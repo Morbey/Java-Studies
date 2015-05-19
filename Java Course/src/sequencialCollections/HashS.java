@@ -2,7 +2,7 @@ package sequencialCollections;
 
 import java.util.HashSet;
 
-public class Names {
+public class HashS {
 	public static void main(String[] args) {
 		HashSet<String> names = new HashSet<String>();
 		names.add("David");
